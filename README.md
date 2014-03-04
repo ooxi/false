@@ -7,7 +7,7 @@ A minimal library forming a contradiction by always returning `false`.
 Why
 ---
 
-Because I needed a mock dependencies for [URI.js](http://medialize.github.io/URI.js/)
+Because I needed a mock dependency for [URI.js](http://medialize.github.io/URI.js/)
 available via [bower](http://bower.io/).
 
 
